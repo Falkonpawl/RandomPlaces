@@ -41,7 +41,6 @@ function App() {
           value={value}
         />
       </div>
-      <p>Итог</p>
       <p className="answer-text">{answer}</p>
     </>
   )
